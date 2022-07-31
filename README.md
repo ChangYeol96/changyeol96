@@ -29,7 +29,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlwhs043)](https://solved.ac/wlwhs043)
 
 <!--
-**gmltmd1997/gmltmd1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ChangYeol96/changyeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
