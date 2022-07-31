@@ -1,4 +1,4 @@
-<a href="https://velog.io/@lee-hees"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+<!-- <a href="https://velog.io/@lee-hees"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a> -->
 <a href="https://www.instagram.com/ichangyeol96/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://changyeol96.github.io/" target="_blank">
     <img 
