@@ -22,9 +22,9 @@
 
 <img src="https://img.shields.io/badge/Eclipse-000?style=flat&logo=Eclipse&logoColor="/> <img src="https://img.shields.io/badge/Intellij IDEA-000?style=flat&logo=Intellij IDEA&logoColor="/> <img src="https://img.shields.io/badge/Oracle-000?style=flat&logo=Oracle&logoColor="/> <img src="https://img.shields.io/badge/Mysql-000?style=flat&logo=Mysql&logoColor="/> <img src="https://img.shields.io/badge/MSSQL-000?style=flat&logo=MSSQL&logoColor="/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmltmd1997)](https://github.com/gmltmd1997)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangYeol96)](https://github.com/ChangYeol96)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmltmd1997)](https://github.com/gmltmd1997)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangYeol96)](https://github.com/ChangYeol96)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlwhs043)](https://solved.ac/wlwhs043)
 
