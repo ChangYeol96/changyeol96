@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Eclipse-000?style=flat&logo=Eclipse&logoColor="/> <img src="https://img.shields.io/badge/Intellij IDEA-000?style=flat&logo=Intellij IDEA&logoColor="/> <img src="https://img.shields.io/badge/Oracle-000?style=flat&logo=Oracle&logoColor="/> <img src="https://img.shields.io/badge/Mysql-000?style=flat&logo=Mysql&logoColor="/> <img src="https://img.shields.io/badge/MSSQL-000?style=flat&logo=MSSQL&logoColor="/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changyeol)](https://github.com/changyeol)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changyeol)](https://github.com/changyeol)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=2sdsf00)](https://solved.ac/2sdsf00)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlwhs043)](https://solved.ac/wlwhs043)
 <!--
 **ChangYeol1996/changyeol is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
