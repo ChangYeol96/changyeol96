@@ -26,7 +26,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmltmd1997)](https://github.com/gmltmd1997)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=2sdsf00)](https://solved.ac/2sdsf00)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlwhs043)](https://solved.ac/wlwhs043)
 
 <!--
 **gmltmd1997/gmltmd1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
