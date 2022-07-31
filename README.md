@@ -1,14 +1,14 @@
 <!-- # changyeol.github.io -->
 <!-- <a href="https://velog.io/@lee-hees"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a> -->
 <!-- <a href="https://changyeol.tistory.com/"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a> -->
-<a href="https://www.instagram.com/glascen_d/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<!-- <a href="https://www.instagram.com/glascen_d/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
 <a href="https://changyeol.github.io/" target="_blank">
     <img 
         src="http://img.shields.io/badge/-Portfolio-4fd0c6?style=flat&logo=github&link=https://changyeol.github.io/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&width=100%&height=200&section=header&text=HeeSeung Lee, App Developer&fontAlignY=55&fontSize=40&animation=fadeIn&fontColor=fff"/>
-👋 Hi there!! I'm web developer who uses Pro-C in the financial sector !!! 🚀 I comply with web standards, think about user convenience, and pursue reasonable and efficient development. 😀😁😂 I want to be a IOS app developer.
+<!-- 👋 Hi there!! I'm web developer who uses Pro-C in the financial sector !!! 🚀 I comply with web standards, think about user convenience, and pursue reasonable and efficient development. 😀😁😂 I want to be a IOS app developer. -->
 ## 👊 Main Skills
 <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/> 
