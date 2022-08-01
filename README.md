@@ -1,6 +1,6 @@
 <!-- <a href="https://velog.io/@lee-hees"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a> -->
 <a href="https://www.instagram.com/ichangyeol96/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://changyeol96.github.io/" target="_blank">
+<a href="https://changyeol96.io/" target="_blank">
     <img 
         src="http://img.shields.io/badge/-Portfolio-4fd0c6?style=flat&logo=github&link=https://gmltmd1997.github.io/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
